@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "slug": "opensea-copy",
+  "provider": "drQedwards",
+  "providerUrl": "https://github.com/drQedwards",
+  "logo": null,
+  "demo": null,
+  "setup": [],
+  "install": {
+    "type": "bankr",
+    "repoPath": "opensea-copy",
+    "command": "install the opensea-copy skill from https://github.com/BankrBot/skills/tree/main/opensea-copy"
+  }
+}
